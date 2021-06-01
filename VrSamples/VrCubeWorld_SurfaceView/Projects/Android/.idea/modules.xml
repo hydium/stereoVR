@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/410133050/VrCubeWorld_SurfaceView.iml" filepath="$PROJECT_DIR$/.idea/modules/410133050/VrCubeWorld_SurfaceView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1969290248/VrCubeWorld_SurfaceView.VrSamples.iml" filepath="$PROJECT_DIR$/.idea/modules/-1969290248/VrCubeWorld_SurfaceView.VrSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/582901085/VrCubeWorld_SurfaceView.VrSamples.VrCubeWorld_SurfaceView.iml" filepath="$PROJECT_DIR$/.idea/modules/582901085/VrCubeWorld_SurfaceView.VrSamples.VrCubeWorld_SurfaceView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2136196852/VrCubeWorld_SurfaceView.VrSamples.VrCubeWorld_SurfaceView.Projects.iml" filepath="$PROJECT_DIR$/.idea/modules/-2136196852/VrCubeWorld_SurfaceView.VrSamples.VrCubeWorld_SurfaceView.Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VrCubeWorld_SurfaceView.VrSamples.VrCubeWorld_SurfaceView.Projects.Android.iml" filepath="$PROJECT_DIR$/.idea/modules/VrCubeWorld_SurfaceView.VrSamples.VrCubeWorld_SurfaceView.Projects.Android.iml" />
+    </modules>
+  </component>
+</project>

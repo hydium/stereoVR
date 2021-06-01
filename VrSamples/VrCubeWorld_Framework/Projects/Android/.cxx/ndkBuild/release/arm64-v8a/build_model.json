@@ -1,0 +1,67 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/wom/oculus_mobile_sdk_1.35_3",
+      "sdkFolder": "/home/wom/android-sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/build/intermediates",
+      "gradleModulePathName": ":VrSamples:VrCubeWorld_Framework:Projects:Android",
+      "moduleRootFolder": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android",
+      "makeFile": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "/home/wom/oculus_mobile_sdk_1.35_3/.cxx",
+      "cxxFolder": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/.cxx",
+      "ndkFolder": "/home/wom/android-sdk/ndk/17.2.4988734",
+      "ndkVersion": "17.2.4988734",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "V\u003d0",
+      "-j12",
+      "-C/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android",
+      "APP_PLATFORM\u003dandroid-21",
+      "NDK_TOOLCHAIN_VERSION\u003dclang",
+      "APP_STL\u003dc++_static",
+      "NDK_DEBUG\u003d0",
+      "OVR_DEBUG\u003d0",
+      "USE_ASAN\u003d0"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/build/intermediates/ndkBuild/release/lib",
+    "objFolder": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/build/intermediates/ndkBuild/release/obj/local",
+    "jsonFolder": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/.cxx/ndkBuild/release",
+    "gradleBuildOutputFolder": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 23,
+  "cxxBuildFolder": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/.cxx/ndkBuild/release/arm64-v8a",
+  "jsonFile": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/.cxx/ndkBuild/release/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/.cxx/cxx/release/arm64-v8a",
+  "objFolder": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/build/intermediates/ndkBuild/release/obj/local/arm64-v8a",
+  "buildCommandFile": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/.cxx/ndkBuild/release/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/.cxx/ndkBuild/release/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/.cxx/ndkBuild/release/arm64-v8a/build_model.json",
+  "jsonGenerationLoggingRecordFile": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/.cxx/ndkBuild/release/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android/.cxx/ndkBuild/release/arm64-v8a/compile_commands.json"
+}

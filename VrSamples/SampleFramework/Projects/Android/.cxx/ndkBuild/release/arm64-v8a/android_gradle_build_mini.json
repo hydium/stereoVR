@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android\\jni\\Android.mk",
+    "C:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Gelna\\AppData\\Local\\Android\\Sdk\\ndk\\17.2.4988734\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003dC:/Users/Gelna/Desktop/dev/Oculus-Mobile-SDK/VrSamples/SampleFramework/Projects/Android/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android\\build\\intermediates\\ndkBuild\\release\\lib V\u003d0 -CC:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android NDK_DEBUG\u003d0 OVR_DEBUG\u003d0 USE_ASAN\u003d0 clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Gelna\\AppData\\Local\\Android\\Sdk\\ndk\\17.2.4988734\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003dC:/Users/Gelna/Desktop/dev/Oculus-Mobile-SDK/VrSamples/SampleFramework/Projects/Android/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android\\build\\intermediates\\ndkBuild\\release\\lib V\u003d0 -j12 -CC:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android NDK_DEBUG\u003d0 OVR_DEBUG\u003d0 USE_ASAN\u003d0 {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "sampleframework-release-arm64-v8a": {
+      "artifactName": "sampleframework",
+      "buildCommand": "C:\\Users\\Gelna\\AppData\\Local\\Android\\Sdk\\ndk\\17.2.4988734\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003dC:/Users/Gelna/Desktop/dev/Oculus-Mobile-SDK/VrSamples/SampleFramework/Projects/Android/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android\\build\\intermediates\\ndkBuild\\release\\lib V\u003d0 -j12 -CC:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android NDK_DEBUG\u003d0 OVR_DEBUG\u003d0 USE_ASAN\u003d0 C:/Users/Gelna/Desktop/dev/Oculus-Mobile-SDK/VrSamples/SampleFramework/Projects/Android/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libsampleframework.a",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\Gelna\\Desktop\\dev\\Oculus-Mobile-SDK\\VrSamples\\SampleFramework\\Projects\\Android\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a\\libsampleframework.a"
+    }
+  }
+}

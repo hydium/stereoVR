@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/410133050/VrInput.iml" filepath="$PROJECT_DIR$/.idea/modules/410133050/VrInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1969290248/VrInput.VrSamples.iml" filepath="$PROJECT_DIR$/.idea/modules/-1969290248/VrInput.VrSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1689510717/VrInput.VrSamples.SampleFramework.iml" filepath="$PROJECT_DIR$/.idea/modules/1689510717/VrInput.VrSamples.SampleFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1973465300/VrInput.VrSamples.SampleFramework.Projects.iml" filepath="$PROJECT_DIR$/.idea/modules/-1973465300/VrInput.VrSamples.SampleFramework.Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1751421332/VrInput.VrSamples.SampleFramework.Projects.Android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1751421332/VrInput.VrSamples.SampleFramework.Projects.Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1985507529/VrInput.VrSamples.VrInput.iml" filepath="$PROJECT_DIR$/.idea/modules/-1985507529/VrInput.VrSamples.VrInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-451642254/VrInput.VrSamples.VrInput.Projects.iml" filepath="$PROJECT_DIR$/.idea/modules/-451642254/VrInput.VrSamples.VrInput.Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VrInput.VrSamples.VrInput.Projects.Android.iml" filepath="$PROJECT_DIR$/.idea/modules/VrInput.VrSamples.VrInput.Projects.Android.iml" />
+    </modules>
+  </component>
+</project>

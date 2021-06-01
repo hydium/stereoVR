@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/410133050/Vr360PhotoViewer.iml" filepath="$PROJECT_DIR$/.idea/modules/410133050/Vr360PhotoViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GStreamer/Vr360PhotoViewer.GStreamer.iml" filepath="$PROJECT_DIR$/.idea/modules/GStreamer/Vr360PhotoViewer.GStreamer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1969290248/Vr360PhotoViewer.VrSamples.iml" filepath="$PROJECT_DIR$/.idea/modules/-1969290248/Vr360PhotoViewer.VrSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1689510717/Vr360PhotoViewer.VrSamples.SampleFramework.iml" filepath="$PROJECT_DIR$/.idea/modules/1689510717/Vr360PhotoViewer.VrSamples.SampleFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1973465300/Vr360PhotoViewer.VrSamples.SampleFramework.Projects.iml" filepath="$PROJECT_DIR$/.idea/modules/-1973465300/Vr360PhotoViewer.VrSamples.SampleFramework.Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1751421332/Vr360PhotoViewer.VrSamples.SampleFramework.Projects.Android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1751421332/Vr360PhotoViewer.VrSamples.SampleFramework.Projects.Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1305454986/Vr360PhotoViewer.VrSamples.Vr360PhotoViewer.iml" filepath="$PROJECT_DIR$/.idea/modules/1305454986/Vr360PhotoViewer.VrSamples.Vr360PhotoViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-147239041/Vr360PhotoViewer.VrSamples.Vr360PhotoViewer.Projects.iml" filepath="$PROJECT_DIR$/.idea/modules/-147239041/Vr360PhotoViewer.VrSamples.Vr360PhotoViewer.Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Vr360PhotoViewer.VrSamples.Vr360PhotoViewer.Projects.Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Vr360PhotoViewer.VrSamples.Vr360PhotoViewer.Projects.Android.iml" />
+    </modules>
+  </component>
+</project>

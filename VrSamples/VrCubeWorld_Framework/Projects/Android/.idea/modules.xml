@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/410133050/VrCubeWorld_Framework.iml" filepath="$PROJECT_DIR$/.idea/modules/410133050/VrCubeWorld_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GStreamer/VrCubeWorld_Framework.GStreamer.iml" filepath="$PROJECT_DIR$/.idea/modules/GStreamer/VrCubeWorld_Framework.GStreamer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1969290248/VrCubeWorld_Framework.VrSamples.iml" filepath="$PROJECT_DIR$/.idea/modules/-1969290248/VrCubeWorld_Framework.VrSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1689510717/VrCubeWorld_Framework.VrSamples.SampleFramework.iml" filepath="$PROJECT_DIR$/.idea/modules/1689510717/VrCubeWorld_Framework.VrSamples.SampleFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1973465300/VrCubeWorld_Framework.VrSamples.SampleFramework.Projects.iml" filepath="$PROJECT_DIR$/.idea/modules/-1973465300/VrCubeWorld_Framework.VrSamples.SampleFramework.Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1751421332/VrCubeWorld_Framework.VrSamples.SampleFramework.Projects.Android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1751421332/VrCubeWorld_Framework.VrSamples.SampleFramework.Projects.Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1565724375/VrCubeWorld_Framework.VrSamples.VrCubeWorld_Framework.iml" filepath="$PROJECT_DIR$/.idea/modules/-1565724375/VrCubeWorld_Framework.VrSamples.VrCubeWorld_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-486987072/VrCubeWorld_Framework.VrSamples.VrCubeWorld_Framework.Projects.iml" filepath="$PROJECT_DIR$/.idea/modules/-486987072/VrCubeWorld_Framework.VrSamples.VrCubeWorld_Framework.Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VrCubeWorld_Framework.VrSamples.VrCubeWorld_Framework.Projects.Android.iml" filepath="$PROJECT_DIR$/.idea/modules/VrCubeWorld_Framework.VrSamples.VrCubeWorld_Framework.Projects.Android.iml" />
+    </modules>
+  </component>
+</project>

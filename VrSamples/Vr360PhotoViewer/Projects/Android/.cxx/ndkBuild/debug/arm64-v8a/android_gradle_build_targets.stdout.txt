@@ -1,0 +1,9 @@
+FINISHED GSTREAMER
+make: Entering directory `C:/Users/Gelna/Desktop/dev/Oculus-Mobile-SDK/VrSamples/Vr360PhotoViewer/Projects/Android'
+GStreamer      : [GEN] => arm64-v8a/gstreamer_android.c
+Done mkdir
+Done cp
+GStreamer      : [COMPILE] => arm64-v8a/gstreamer_android.c
+GStreamer      : [LINK] => arm64-v8a/libgstreamer_android.so
+make: Nothing to be done for `vr360photoviewer'.
+make: Leaving directory `C:/Users/Gelna/Desktop/dev/Oculus-Mobile-SDK/VrSamples/Vr360PhotoViewer/Projects/Android'

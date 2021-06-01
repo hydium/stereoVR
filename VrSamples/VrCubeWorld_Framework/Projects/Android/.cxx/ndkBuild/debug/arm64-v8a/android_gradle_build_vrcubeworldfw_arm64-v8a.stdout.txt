@@ -1,0 +1,4 @@
+make: Entering directory `/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : vrcubeworldfw <= VrCubeWorld_Framework.cpp
+[arm64-v8a] SharedLibrary  : libvrcubeworldfw.so
+make: Leaving directory `/home/wom/oculus_mobile_sdk_1.35_3/VrSamples/VrCubeWorld_Framework/Projects/Android'
